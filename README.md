@@ -2,18 +2,17 @@
 
 # Introduction to Text Analysis with Python
 
-### Handout
-
-----
-A handout for today's session can be found [here]()
-
 
 
 ## Getting Started
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Python_Intro_Text_analysis/blob/master/text_analysis.ipynb) - Text Analysis Basics
+Click the blue button to launch the tutorial material in the Google Collab environment. Please be aware that you'll need a Google Account to access the service.
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/Python_Intro_Text_analysis/blob/master/basics.ipynb) - Text Analysis Basics
 
 
 
