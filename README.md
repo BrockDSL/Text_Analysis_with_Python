@@ -1,4 +1,4 @@
-# ![DSL Logo](dsl_logo.png)
+# ![Workshop Splash](Text-Analysis-Python.jpg)
 
 # Introduction to Text Analysis with Python
 
