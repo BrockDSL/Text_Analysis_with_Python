@@ -1,7 +1,14 @@
 # ![Workshop Splash](Text-Analysis-Python.jpg)
 
-# Introduction to Text Analysis with Python
 
+# Introduction to Text Analysis with Python
+Welcome to the Digital Scholarship Lab introduction to Text Analysis with Python class. In this class we'll learn the basics of text analysis:
+
+parsing text
+analyzing the text
+We'll use our own home made analysis tool first, then we'll use a python library called TextBlob to use some built-in analysis tools.
+
+This workshop assumes you've completed our Intro to Python workshop
 
 
 ## Getting Started
