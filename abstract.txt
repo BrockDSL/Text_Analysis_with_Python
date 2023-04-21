@@ -2,4 +2,4 @@ In this class we'll learn the basics of text analysis using the Python programmi
 
 We'll use our own home made analysis tool first, then we'll use a python library called TextBlob to use some built-in analysis tools.
 
-This workshop assumes you've completed our <a href="https://brockdsl.github.io/Intro_to_Python_Workshop/">Introduction to Python</a> workshop
+This workshop assumes you've completed our Introduction to Python workshop.  https://brockdsl.github.io/Intro_to_Python_Workshop/
